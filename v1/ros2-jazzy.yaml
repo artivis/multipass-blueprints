@@ -6,7 +6,7 @@ runs-on:
 - x86_64
 
 instances:
-  ros2-jazzy:
+  robotics/ros2-jazzy:
     image: 24.04
     limits:
       min-cpu: 2
